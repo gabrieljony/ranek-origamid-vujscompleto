@@ -23,6 +23,33 @@
       "fotos": null
     },
     {
+      "id": "controle",
+      "nome": "Controle",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "299",
+      "vendido": "false",
+      "descricao": "Esse é um novo controle.",
+      "fotos": null
+    },
+    {
+      "id": "mouse",
+      "nome": "Mouse",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "59",
+      "vendido": "false",
+      "descricao": "Esse é um novo mouse.",
+      "fotos": null
+    },
+    {
+      "id": "teclado",
+      "nome": "Teclado",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "99",
+      "vendido": "false",
+      "descricao": "Esse é um novo teclado.",
+      "fotos": null
+    },
+    {
       "id": "smartphone",
       "nome": "Smartphone",
       "usuario_id": "gabriel_jony@hotmail.com",
