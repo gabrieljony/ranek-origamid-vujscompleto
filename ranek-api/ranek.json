@@ -59,6 +59,42 @@
       "fotos": null
     },
     {
+      "id": "micro-pc",
+      "nome": "Micro PC",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "99",
+      "vendido": "false",
+      "descricao": "Esse é um novo micro pc.",
+      "fotos": null
+    },
+    {
+      "id": "tv",
+      "nome": "Tv",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tv.",
+      "fotos": null
+    },
+    {
+      "id": "fone",
+      "nome": "Fone",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "99",
+      "vendido": "false",
+      "descricao": "Esse é um novo fone.",
+      "fotos": null
+    },
+    {
+      "id": "microfone",
+      "nome": "Microfone",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo microfone.",
+      "fotos": null
+    },
+    {
       "id": "tablet",
       "nome": "Tablet",
       "usuario_id": "gabriel_jony@hotmail.com",
