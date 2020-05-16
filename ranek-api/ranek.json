@@ -1,0 +1,44 @@
+{
+  "usuario": [
+    {
+      "id": "gabriel_jony@hotmail.com",
+      "email": "gabriel_jony@hotmail.com",
+      "nome": "Gabriel Jony",
+      "senha": "123",
+      "rua": "Rua Esquina",
+      "cep": "123456789",
+      "numero": "30",
+      "estado": "Ba",
+      "cidade": "Salvador"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "1399",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet.",
+      "fotos": null
+    }
+  ]
+}
