@@ -10,6 +10,18 @@
       "numero": "30",
       "estado": "Ba",
       "cidade": "Salvador"
+    },
+    {
+      "id": "teste@gmail.com",
+      "nome": "teste",
+      "email": "teste@gmail.com",
+      "senha": "132545",
+      "cep": "40040090",
+      "rua": "Rua da Mouraria",
+      "numero": "55",
+      "bairro": "Nazaré",
+      "cidade": "Salvador",
+      "estado": "BA"
     }
   ],
   "produto": [
