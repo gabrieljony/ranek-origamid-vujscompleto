@@ -102,6 +102,60 @@
       "vendido": "false",
       "descricao": "Esse é um novo tablet.",
       "fotos": null
+    },
+    {
+      "id": "cabo-usb",
+      "nome": "Cabo USB",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "15",
+      "vendido": "false",
+      "descricao": "Esse é um novo cabo USB.",
+      "fotos": null
+    },
+    {
+      "id": "cabo-hdmi",
+      "nome": "Cabo HDMI",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "32",
+      "vendido": "false",
+      "descricao": "Esse é um novo cabo HDMI.",
+      "fotos": null
+    },
+    {
+      "id": "bluray",
+      "nome": "Bluray",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "299",
+      "vendido": "false",
+      "descricao": "Esse é um novo bluray.",
+      "fotos": null
+    },
+    {
+      "id": "cadeira",
+      "nome": "Cadeira",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "299",
+      "vendido": "false",
+      "descricao": "Esse é um novo cadeira.",
+      "fotos": null
+    },
+    {
+      "id": "relogio",
+      "nome": "Relogio",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "499",
+      "vendido": "false",
+      "descricao": "Esse é um novo relogio.",
+      "fotos": null
+    },
+    {
+      "id": "iphone",
+      "nome": "Iphone",
+      "usuario_id": "gabriel_jony@hotmail.com",
+      "preco": "6399",
+      "vendido": "false",
+      "descricao": "Esse é um novo iphone.",
+      "fotos": null
     }
   ]
 }
