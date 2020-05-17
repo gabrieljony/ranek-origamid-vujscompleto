@@ -1,4 +1,50 @@
 {
+  "transacao": [
+    {
+      "comprador_id": "gabriel_jony@hotmail.com",
+      "vendedor_id": "gabriel_jony@hotmail.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "gabriel_jony@hotmail.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "123456789",
+        "rua": "Rua Esquina",
+        "numero": "30",
+        "bairro": "",
+        "cidade": "Salvador",
+        "estado": "Ba"
+      },
+      "id": 1
+    },
+    {
+      "comprador_id": "ola@teste.com",
+      "vendedor_id": "gabriel_jony@hotmail.com",
+      "produto": {
+        "id": "controle",
+        "nome": "Controle",
+        "usuario_id": "gabriel_jony@hotmail.com",
+        "preco": "299",
+        "vendido": "false",
+        "descricao": "Esse é um novo controle.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "45652365",
+        "rua": "12",
+        "numero": "132",
+        "bairro": "nova",
+        "cidade": "123",
+        "estado": "123"
+      },
+      "id": 2
+    }
+  ],
   "usuario": [
     {
       "id": "gabriel_jony@hotmail.com",
@@ -22,6 +68,30 @@
       "bairro": "Nazaré",
       "cidade": "Salvador",
       "estado": "BA"
+    },
+    {
+      "id": "teste@yahoo.com",
+      "nome": "GABRIEL JONY BORGES SILVA",
+      "email": "teste@yahoo.com",
+      "senha": "123",
+      "cep": "40040090",
+      "rua": "Rua da Mouraria",
+      "numero": "33",
+      "bairro": "Nazaré",
+      "cidade": "Salvador",
+      "estado": "BA"
+    },
+    {
+      "id": "ola@teste.com",
+      "nome": "ola",
+      "email": "ola@teste.com",
+      "senha": "123",
+      "cep": "45652365",
+      "rua": "12",
+      "numero": "132",
+      "bairro": "nova",
+      "cidade": "123",
+      "estado": "123"
     }
   ],
   "produto": [
