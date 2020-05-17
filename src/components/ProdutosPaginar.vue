@@ -53,7 +53,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .paginacao {
   padding: 30px 0;
   display: flex;
