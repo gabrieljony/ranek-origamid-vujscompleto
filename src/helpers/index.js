@@ -17,8 +17,21 @@ export function mapFields(options) {
       },
       set(value) {
         this.$store.commit(options.mutation, { [field]: value });
-      }
+      },
     };
   }
   return object;
+}
+
+export function toUpperCase(value) {
+  if (value) {
+    return value.toUpperCase();
+  }
+}
+
+export function toCapitalize(value) {
+  if (value) {
+    const reg = /(?:^|[\s'\\-])([a-z-áàâéèêíîôùûç])/g;
+    return value.toLowerCase().replace(reg, (g0) => g0.toUpperCase());
+  }
 }
