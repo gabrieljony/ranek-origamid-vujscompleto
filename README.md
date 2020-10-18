@@ -40,17 +40,17 @@ Esse é uma aplicação final do curso [Origamid](https://www.origamid.com/curso
     
 5.  **Install Api.**
 
-```shell
-npm install -g json-server
+    ```shell
+    npm install -g json-server
 
-yarn globall add json-server
-```
+    yarn globall add json-server
+    ```
 
 6.  **Run Api.**
 
-```shell
-json-server ranek.json -p 3000 -w 
-```
+    ```shell
+    json-server ranek.json -p 3000 -w 
+    ```
 
 ## 💫 Links
 
